@@ -1,3 +1,3 @@
-begin
-	pring("Hello, World");
+﻿begin
+	
 end.
